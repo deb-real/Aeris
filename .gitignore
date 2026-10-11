@@ -1,0 +1,6 @@
+models/
+sentinel-2-processed.parquet
+.streamlit/
+logs/
+_pycache_/
+remoteclip_embeddings/
